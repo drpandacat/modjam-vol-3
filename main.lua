@@ -502,7 +502,7 @@ MODJAM_VOL_3:AddCallback(ModCallbacks.MC_GET_SHADER_PARAMS, function (_, hsader)
         height - t.PAD_DOWN + math.sin(t.Frame * 0.08) * 0.5
     )
 
-    if not paused and Input.IsButtonTriggered(Keyboard.KEY_F3, -1) then
+    if not paused and Input.IsButtonTriggered(Keyboard.KEY_F3, 0) then
         t.TouchedCards = {}
         local save = MODJAM_VOL_3.SaveManager.GetSettingsSave()
         save.DisabledVrud = not save.DisabledVrud
