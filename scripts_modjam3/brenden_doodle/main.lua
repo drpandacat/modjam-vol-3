@@ -97,21 +97,26 @@ local function getFreeDoorPosition(rng)
     for i=0, DoorSlot.NUM_DOOR_SLOTS - 1 do 
         local doorpos = room:GetDoorSlotPosition(i) 
 
-        if doorpos then 
+        if room:GetDoor(i) then 
             local far = true
-            for i, pos in ipairs(playerpos) do
-                if far and doorpos:Distance(pos) < 100 then 
+            for i2, pos2 in ipairs(playerpos) do
+                if far and doorpos:Distance(pos2) < 100 then 
                     far = false
-                end 
+                end
             end
 
             if far==true then table.insert(pos, doorpos) end
         end
     end
 
-    local p = pos[rng:RandomInt(#pos)]
+    local p
+    if(#pos>0) then
+        p = room:GetClampedPosition(pos[rng:RandomInt(1,#pos)], 1)
+    else
+        p = room:GetCenterPos()
+    end
     if not p then p = room:GetCenterPos() end
-    return room:FindFreePickupSpawnPosition(p, 1, true, false)
+    return room:FindFreePickupSpawnPosition(p, 0, true, false)
 end
 
 function mod:useCardChaosWarp(card, player, flags)
