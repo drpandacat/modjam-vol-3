@@ -20,7 +20,7 @@
         description="Academic success"
         hud="Report"
         type="special"
-        pickup="973"
+        pickup="873"
 
         mimiccharge="2"
     />
@@ -28,7 +28,7 @@
         description="I'm feeling lucky!"
         hud="Scratch"
         type="special"
-        pickup="973"
+        pickup="873"
 
         mimiccharge="2"
     />
@@ -36,7 +36,7 @@
         description="Hold on to it"
         hud="Charm"
         type="special"
-        pickup="973"
+        pickup="873"
 
         mimiccharge="2"
     />
@@ -44,7 +44,7 @@
         description="Locked away forever"
         hud="Board"
         type="special"
-        pickup="973"
+        pickup="873"
 
         mimiccharge="6"
     />
@@ -52,7 +52,7 @@
         description="Banhammer"
         hud="Report (alt)"
         type="special"
-        pickup="974"
+        pickup="874"
 
         mimiccharge="12"
     />
@@ -60,7 +60,7 @@
         description="Sharp..."
         hud="Scratch (alt)"
         type="special"
-        pickup="974"
+        pickup="874"
 
         mimiccharge="3"
     />
@@ -68,7 +68,7 @@
         description="Happy birthday!"
         hud="Charm (alt)"
         type="special"
-        pickup="974"
+        pickup="874"
 
         mimiccharge="4"
     />
@@ -76,7 +76,7 @@
         description="Good morning, class!"
         hud="Board (alt)"
         type="special"
-        pickup="974"
+        pickup="874"
 
         mimiccharge="3"
     />
