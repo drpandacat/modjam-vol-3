@@ -68,9 +68,9 @@ local itemDescs = {
     [CardjamFlipCards.COLLECTIBLE_DOUBLE_SIDED_CARD] = {
         Name = "Double-Sided Card",
         Desc = {
-            "{{CardbackFlipFlopRed}} When used at full charge, spawns a random flip-flop card",
+            "{{CBFlipFlopRed}} When used at full charge, spawns a random flip-flop card",
             "When used at partial charge, consumes 1 pip and morphs held cards:",
-            "{{CardbackFlipFlopRed}} Regular <-> flipped flip-flop cards",
+            "{{CBFlipFlopRed}} Regular <-> flipped flip-flop cards",
             "{{Card}} Regular <-> reverse tarot cards"
         }
     }
@@ -88,8 +88,8 @@ EID:addIcon("Card"..tostring(CardjamFlipCards.CARD_BOARD_ALT), "Cards", 7, 16, 1
 
 EID:addIcon("Card"..tostring(CardjamFlipCards.CARD_BOARD_ALT), "Cards", 7, 16, 16, 0, 0, iconSprite)
 
-EID:addIcon("CardbackFlipFlopRed", "Cardbacks", 0, 16, 16, 0, 0, iconSprite)
-EID:addIcon("CardbackFlipFlopBlue", "Cardbacks", 1, 16, 16, 0, 0, iconSprite)
+EID:addIcon("CBFlipFlopRed", "Cardbacks", 0, 16, 16, 0, 0, iconSprite)
+EID:addIcon("CBFlipFlopBlue", "Cardbacks", 1, 16, 16, 0, 0, iconSprite)
 
 ---@param stringTable string[]
 local function turnStringTableToDesc(stringTable)

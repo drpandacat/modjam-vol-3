@@ -80,7 +80,7 @@ EID:addIcon("Card"..tostring(AllInJane.CARD_NEGATIVE_NANCY), "Cards", 5, 16, 16,
 EID:addIcon("Card"..tostring(AllInJane.CARD_TALHAK), "Cards", 6, 16, 16, 0, 0, iconSprite)
 EID:addIcon("Card"..tostring(AllInJane.CARD_YU_SZE), "Cards", 7, 16, 16, 0, 0, iconSprite)
 
-EID:addIcon("CardbackAllInJane", "Cardbacks", 0, 16, 16, 0, 0, iconSprite)
+EID:addIcon("CBAllInJane", "Cardbacks", 0, 16, 16, 0, 0, iconSprite)
 
 ---@param stringTable string[]
 local function turnStringTableToDesc(stringTable)

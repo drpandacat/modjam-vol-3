@@ -59,7 +59,7 @@ local itemDescs = {
     [AllInJohn.COLLECTIBLE_GUESS_THE_JEST] = {
         Name = "Guess the Jest!",
         Desc = {
-            "{{CardbackAllInJohn}} Spawns 3 random \"All in {{AllInJohn}}John\" (or \"All in {{AllInJane}}Jane\") cards",
+            "{{CBAllInJohn}} Spawns 3 random \"All in {{AllInJohn}}John\" (or \"All in {{AllInJane}}Jane\") cards",
             "Only 1 can be picked"
         }
     }
@@ -75,7 +75,7 @@ EID:addIcon("Card"..tostring(AllInJohn.CARD_SILVIO), "Cards", 5, 16, 16, 0, 0, i
 EID:addIcon("Card"..tostring(AllInJohn.CARD_EULENSPIEGEL), "Cards", 6, 16, 16, 0, 0, iconSprite)
 EID:addIcon("Card"..tostring(AllInJohn.CARD_COCONUT), "Cards", 7, 16, 16, 0, 0, iconSprite)
 
-EID:addIcon("CardbackAllInJohn", "Cardbacks", 0, 16, 16, 0, 0, iconSprite)
+EID:addIcon("CBAllInJohn", "Cardbacks", 0, 16, 16, 0, 0, iconSprite)
 
 EID:addIcon("AllInJohn", "Misc", 0, 16, 16, 0, 0, iconSprite)
 EID:addIcon("AllInJane", "Misc", 1, 16, 16, 0, 0, iconSprite)
