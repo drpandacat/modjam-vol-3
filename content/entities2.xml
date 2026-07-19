@@ -4,7 +4,7 @@
     <entity name="Vivian Coconut" id="3" anm2path="familiar_viviancoconut.anm2" collisionMass="5" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="12"/>
     <entity name="Vivian Guy" id="3" anm2path="familiar_vivianguy.anm2" collisionMass="3" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="11"/>
     <entity name="Vivian Cloud" id="3" anm2path="familiar_viviancloud.anm2" collisionMass="3" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="11"/>
-    <entity name="VIII - Justice!" id="5" variant="300" subtype="60" anm2path="pocketitem_justice.anm2" collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16">
+    <entity name="VIII - Justice!" id="5" variant="300" subtype="160" anm2path="pocketitem_justice.anm2" collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16">
         <preload-snd id="8"/>
     </entity>
     <entity name="Blue Asbestos Card" id="5" variant="300" subtype="161" anm2path="pocketitem_blueasbestoscard.anm2" collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16">
