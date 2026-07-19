@@ -151,7 +151,7 @@
         description="Does nothing...?"
         hud="Nobody"
         type="special"
-        pickup="976"
+        pickup="876"
 
         mimiccharge="6"
     />
@@ -159,7 +159,7 @@
         description="Shared suffering"
         hud="Party Time"
         type="special"
-        pickup="976"
+        pickup="876"
 
         mimiccharge="12"
     />
@@ -167,7 +167,7 @@
         description="You've been had..."
         hud="Infuriating Note"
         type="special"
-        pickup="976"
+        pickup="876"
 
         mimiccharge="2"
     />
@@ -175,7 +175,7 @@
         description="Power to the people!"
         hud="Beanstalk"
         type="special"
-        pickup="976"
+        pickup="876"
 
         mimiccharge="3"
     />
@@ -183,7 +183,7 @@
         description="Takes his time"
         hud="Jerko"
         type="special"
-        pickup="976"
+        pickup="876"
 
         mimiccharge="4"
     />
@@ -191,7 +191,7 @@
         description="Look to la luna"
         hud="Negative Nancy"
         type="special"
-        pickup="976"
+        pickup="876"
 
         mimiccharge="12"
     />
@@ -199,7 +199,7 @@
         description="Choose your future"
         hud="Talhak"
         type="special"
-        pickup="976"
+        pickup="876"
 
         mimiccharge="4"
     />
@@ -207,7 +207,7 @@
         description="Might of the meek"
         hud="Yu Sze"
         type="special"
-        pickup="976"
+        pickup="876"
 
         mimiccharge="3"
     />
@@ -216,7 +216,7 @@
         description="Only tears"
         hud="Little Boy Blue"
         type="special"
-        pickup="975"
+        pickup="875"
 
         mimiccharge="6"
     />
@@ -224,7 +224,7 @@
         description="Block damage sometimes"
         hud="Hat Trick"
         type="special"
-        pickup="975"
+        pickup="875"
 
         mimiccharge="12"
     />
@@ -232,7 +232,7 @@
         description="We the people"
         hud="Comedian's Manifesto"
         type="special"
-        pickup="975"
+        pickup="875"
 
         mimiccharge="12"
     />
@@ -240,7 +240,7 @@
         description="ABCDEFG..."
         hud="Lexicon"
         type="special"
-        pickup="975"
+        pickup="875"
 
         mimiccharge="3"
     />
@@ -248,7 +248,7 @@
         description="Consumable duplicator"
         hud="Gnasher"
         type="special"
-        pickup="975"
+        pickup="875"
 
         mimiccharge="5"
     />
@@ -256,7 +256,7 @@
         description="Charged destiny"
         hud="Silvio"
         type="special"
-        pickup="975"
+        pickup="875"
 
         mimiccharge="2"
     />
@@ -264,7 +264,7 @@
         description="In a loop"
         hud="Eulenspiegel"
         type="special"
-        pickup="975"
+        pickup="875"
 
         mimiccharge="12"
     />
@@ -272,7 +272,7 @@
         description="Temporary room"
         hud="Coconut"
         type="special"
-        pickup="975"
+        pickup="875"
 
         mimiccharge="12"
     />
