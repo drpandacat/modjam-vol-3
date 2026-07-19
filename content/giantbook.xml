@@ -1,0 +1,8 @@
+<giantbook anm2root="gfx/ui/giantbook/">
+	<!-- Kerkel Biddybododode -->
+	<entry name="pasue the flipping game im card" anm2="GiantBook.anm2" anim="Shake" gfx=".png">
+		<layer name="poof" r="5" g="5" b="5" a="0"/>
+		<layer name="bg" r="13" g="13" b="13" a="0"/>
+		<layer name="poof2" r="5" g="5" b="5" a="0"/>
+	</entry>
+</giantbook>

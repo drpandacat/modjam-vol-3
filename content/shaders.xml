@@ -1,0 +1,84 @@
+<shaders>
+    <!-- Kerkel Biddybododode -->
+	<shader name="Phonk Zoom">
+		<parameters>
+			<param name="StrengthIn" type="float"/>
+			<param name="ScreenPointScaleIn" type="float"/>
+			<param name="PosIn" type="vec2"/>
+		</parameters>
+		<vertex><![CDATA[uniform mat4 Transform;
+attribute vec3 Position;
+attribute vec4 Color; varying vec4 Color0;
+attribute vec2 TexCoord; varying vec2 TexCoord0;
+attribute vec4 RenderData; varying vec4 RenderDataOut;
+attribute float Scale; varying float ScaleOut;
+
+attribute float StrengthIn; varying float Strength;
+attribute float ScreenPointScaleIn; varying float ScreenPointScale;
+attribute vec2 PosIn; varying vec2 Pos;
+
+void main() {
+    RenderDataOut = RenderData;
+    ScaleOut = Scale;
+    Color0 = Color;
+    TexCoord0 = TexCoord;
+
+    gl_Position = Transform * vec4(Position.xyz, 1.0);
+
+    Strength = StrengthIn;
+    ScreenPointScale = ScreenPointScaleIn;
+    Pos = PosIn;
+}
+]]></vertex>
+		<fragment><![CDATA[varying lowp vec4 Color0;
+varying mediump vec2 TexCoord0;
+varying lowp vec4 RenderDataOut;
+varying lowp float ScaleOut;
+uniform sampler2D Texture0;
+varying float Strength, ScreenPointScale;
+varying vec2 Pos;
+
+void main() {
+    vec2 res = (RenderDataOut.zw / RenderDataOut.xy);
+    vec2 uv = TexCoord0 * res;
+    uv -= vec2(0.5);
+    uv /= Strength;
+    uv += Pos;
+    if (uv.x < 0.0 || uv.x > 1.0 || uv.y < 0.0 || uv.y > 1.0) {
+        discard;
+    }
+    gl_FragColor = Color0 * texture2D(Texture0, uv / res);
+}
+]]></fragment>
+	</shader>
+	<shader name="Phonk Overlay">
+		<parameters>
+		</parameters>
+		<vertex><![CDATA[uniform mat4 Transform;
+attribute vec3 Position;
+attribute vec4 Color; varying vec4 Color0;
+attribute vec2 TexCoord; varying vec2 TexCoord0;
+attribute vec4 RenderData; varying vec4 RenderDataOut;
+attribute float Scale; varying float ScaleOut;
+
+void main() {
+    RenderDataOut = RenderData;
+    ScaleOut = Scale;
+    Color0 = Color;
+    TexCoord0 = TexCoord;
+
+    gl_Position = Transform * vec4(Position.xyz, 1.0);
+}
+]]></vertex>
+		<fragment><![CDATA[varying lowp vec4 Color0;
+varying mediump vec2 TexCoord0;
+varying lowp vec4 RenderDataOut;
+varying lowp float ScaleOut;
+uniform sampler2D Texture0;
+
+void main() {
+    gl_FragColor = Color0 * texture2D(Texture0, TexCoord0);
+}
+]]></fragment>
+	</shader>
+</shaders>

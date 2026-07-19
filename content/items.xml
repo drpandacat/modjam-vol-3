@@ -1,0 +1,74 @@
+<items gfxroot="gfx/items/" version="1" deathanm2="gfx/deathitems.anm2">
+	<!-- Biddy Kerkel -->
+	<passive id="0" name="Negate Rainbow Contagion" description="He's rotting, you know." gfx="negaterainbowcontagion.png" quality="0067" craftquality="0067" tags="offensive" hidden="true" cache="color tearcolor"/>
+	<passive id="1" name="Loot Box" description="Supply drop" gfx="smashbox.png" quality="3" craftquality="3" tags="offensive summonable"/>
+	<trinket id="0" name="Negate Rainbow ConWorm" description="Evil cursed artifact, turn off game immediately!" gfx="negaterainbowconworm.png" cache="firedelay tearflag" customcache="asbestos" hidden="true"/>
+	<null name="Phonkard" speed="-0.4" persistent="true"/>
+	<null name="Skart Bubble" speed="1" persistent="true"/>
+	<null name="Vivian Coconut" cache="familiars" persistent="true"/>
+	<null name="Vivian Guy" cache="familiars" persistent="true"/>
+	<null name="Vivian Cloud" cache="familiars" persistent="true"/>
+	<null name="I like hurt people" damage="0.666" persistent="true"/>
+	<null name="I don't like hurt people" speed="0.15" luck="2" persistent="true"/>
+	<null name="Some Asbestos" customcache="asbestos" persistent="true"/>
+	<!-- Aeronaut Truji -->
+    <active
+        id="2" name="Duelling Disk" description="Card thrower" gfx="duelling_disk.png" activegfx="duelling_disk_hud.png"
+        quality="2" craftquality="2" chargetype="timed" maxcharges="135" tags="offensive nocantrip"
+    />
+	<!-- Spoop Split -->
+	<active id="3" name="Double-Sided Card"
+		description="On-demand flips"
+		gfx="double_sided_card.png"
+		quality="2"
+		tags="offensive"
+		cache=""
+
+		maxcharges="6"
+	/>
+
+	<null name="report luck up"
+		luck="1"
+	/>
+	<!-- Monwil Skulldier -->
+    <passive id="4" name="OLD_DATA" description="Buffer overflow" gfx="old_data.png"
+		quality="1" tags="noeden" customtags="nometronome"
+	/>
+
+    <null name="[HDPG] Coplayer Tracker" persistent="true" />
+    <null name="[HDPG] Echo Streak Counter" persistent="true" />
+	<!-- Foks Wons -->
+	<null name="Tick Card Power" persistent="true"/>
+	<null name="Chimera Helper" cooldown="900" persistent="true"/>
+	<!-- BabyblueSheep -->
+	<null id="1" name="Wyvern Stat Boost" luck="8" />
+	<null id="2" name="Wraith Flight" cache="flying color" />
+	<null id="3" name="Megashark Stat Boost" flattears="0.5" persistent="true" />
+	<null id="4" name="Blue Slime Item Drop"  cooldown="450" persistent="true" />
+	<null id="5" name="Werewolf Stat Boost" damage="1" tears="0.3" shotspeed="0.16" speed="0.1" cooldown="900" persistent="true" />
+	<!-- Rat -->
+	<null name="Booty itching powder" speed="0.04" persistent="true"/>
+	<!-- Dpower Reixen -->
+	<null name="Refusal Buffs" speed="0.15" tears="0.32"/>
+	<!-- 4Head Andre -->
+	<null name="The Log Card" description="Incomplete Description" hidden="true"
+			persistent="true" gfx="THIS DOES NOT EXIST. I SWEAR.png" />
+	<!-- Jane Sorrow -->
+    <trinket name="Anarchy Tag"
+        description="TRUE CHAOS!"
+        gfx="anarchy_tag.png"
+        cache=""
+    />
+	<!-- John Sorrow -->
+    <active id="5" name="Guess the Jest!"
+        description="On-demand jokers"
+        gfx="guess_the_jest.png"
+        quality="4"
+        tags="offensive"
+        cache=""
+
+        maxcharges="6"
+    />
+	<!-- Meta -->
+	<active id="5" name="Binder" description="Community card generator" gfx="binder.png" quality="3" craftquality="3" maxcharges="6" tags="offensive offensive nocantrip book"/>
+</items>

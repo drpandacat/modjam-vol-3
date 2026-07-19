@@ -1,0 +1,12 @@
+<players root="gfx/characters/costumes/"
+        portraitroot="gfx/ui/stage/"
+        nameimageroot="gfx/ui/boss/">
+    <!-- Monwil Skulldier -->
+    <player name="Manifestation"
+        skin="character_manifestation.png" soulhearts="6" healthType="1"
+        nameimage="playername_manifestation.png"
+        portrait="playerportrait_manifestation.png"
+        skinColor="0"
+        birthright="Corporeal"
+        hidden="true"/>
+</players>

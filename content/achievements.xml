@@ -1,0 +1,5 @@
+<achievements gfxroot="gfx/ui/achievement/">
+    <!-- Monwil Skulldier -->
+    <achievement name="[HDPG] Void Cards" gfx="void_cards.png"/>
+    <achievement name="[HDPG] 161 of Clubs" gfx="lotta_clubs.png"/>
+</achievements>

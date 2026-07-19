@@ -1,0 +1,9 @@
+<cutscenes root="gfx/cutscenes/">
+	<!-- Kerkel Biddybododode -->
+	<cutscene name="Blue Asbestos Halls">
+		<videopart file="blueasbestoshalls.ogv"/>
+	</cutscene>
+	<cutscene name="CONSCARE">
+		<videopart file="conscare.ogv"/>
+	</cutscene>
+</cutscenes>

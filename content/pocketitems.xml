@@ -1,0 +1,279 @@
+<pocketitems>
+    <!-- Kerkel Biddy -->
+    <card name="VIII - Justice!" type="special" pickup="160" hud="VIII - Justice!" description="Serves desserts" mimiccharge="3"/>
+    <card name="Little Card John" type="special" pickup="166" hud="Little Card John" description="This is mine" mimiccharge="3"/>
+    <card name="Phonkard" type="special" pickup="165" hud="Phonkard" description="Melt your enemies from the inside" mimiccharge="6"/>
+    <card name="Red Card with White Question Mark in the Middle and a Border is Present and White Too" type="special" pickup="164" hud="Red Card with White Question Mark in the Middle and a Border is Present and White Too" description="Great for families, too" mimiccharge="5"/>
+    <card name="Blue Asbestos Card" type="special" pickup="161" hud="Blue Asbestos Card" description="Room of Rot" mimiccharge="6"/>
+    <card name="Vivian Card" type="special" pickup="162" hud="Vivian Card" description="Wishing good things for the world" mimiccharge="6"/>
+    <card name="Wild Card" type="special" pickup="163" hud="Hexed Wild Card" description="Summons blessings" mimiccharge="12"/>
+    <card name="Smash Kard" type="special" pickup="167" hud="Smash Kard" description="Random lard powers" mimiccharge="3"/>
+    <!-- Aeronaut Truji -->
+    <card type="special" pickup="3650" description="Merge consumables" hud="CardJamAT_Polymerization" name="Polymerization" mimiccharge="12" />
+    <!-- Idk if this counts towards the number of cards that can be made or not -->
+    <card type="object" pickup="3651" description="???" hud="CardJamAT_Amalgam" name="Amalgam" mimiccharge="1" hidden="true" />
+    <card type="special" pickup="3652" description="Summon the real you" hud="CardJamAT_Ijiraq" name="Ijiraq" mimiccharge="4" />
+    <card type="special" pickup="3653" description="Please come back..." hud="CardJamAT_PunchCard" name="Punch Card" mimiccharge="4" greedmode="false" />
+    <card type="special" pickup="3654" description="Force of attraction" hud="CardJamAT_MagneticCard" name="Magnetic Card" mimiccharge="2" />
+    <!-- Spoop Split -->
+    <card id="0" name="Report"
+        description="Academic success"
+        hud="Report"
+        type="special"
+        pickup="973"
+
+        mimiccharge="2"
+    />
+    <card id="1" name="Scratch"
+        description="I'm feeling lucky!"
+        hud="Scratch"
+        type="special"
+        pickup="973"
+
+        mimiccharge="2"
+    />
+    <card id="2" name="Charm"
+        description="Hold on to it"
+        hud="Charm"
+        type="special"
+        pickup="973"
+
+        mimiccharge="2"
+    />
+    <card id="3" name="Board"
+        description="Locked away forever"
+        hud="Board"
+        type="special"
+        pickup="973"
+
+        mimiccharge="6"
+    />
+    <card id="4" name="Report"
+        description="Banhammer"
+        hud="Report (alt)"
+        type="special"
+        pickup="974"
+
+        mimiccharge="12"
+    />
+    <card id="5" name="Scratch"
+        description="Sharp..."
+        hud="Scratch (alt)"
+        type="special"
+        pickup="974"
+
+        mimiccharge="3"
+    />
+    <card id="6" name="Charm"
+        description="Happy birthday!"
+        hud="Charm (alt)"
+        type="special"
+        pickup="974"
+
+        mimiccharge="4"
+    />
+    <card id="7" name="Board"
+        description="Good morning, class!"
+        hud="Board (alt)"
+        type="special"
+        pickup="974"
+
+        mimiccharge="3"
+    />
+    <!-- Stale -->
+    <card type="special" name="Electrochemistry" description=" Love and be loved by drugs." hud="Electrochemistry" mimiccharge="2" pickup="17714" weight = "1" />
+    <card type="special" name="Inland Empire" description="Dreams in waking life." hud="InlandEmpire" mimiccharge="2" pickup="17714" weight = "1" greedmode = "false"/>
+    <!-- Gloopy20 -->
+    <card type="special" name="Yara Yara Card" description="Yara Yara" hud="YaraYara" pickup="248562"/>
+    <!-- Monwil Skulldier -->
+    <card type="special" name="Red Seal" description="Retrigger" hud="Red Seal" mimiccharge="6" pickup="6867"/>
+    <card type="special" name="Nihil" description="Exchange" hud="Nihil" mimiccharge="4" pickup="6868" achievement="[HDPG] Void Cards"/>
+    <card type="special" name="Echo" description="The Mimic" hud="Echo" mimiccharge="12" pickup="6868" achievement="[HDPG] Void Cards"/>
+    <card type="special" name="161 of Clubs" description="Item boundlessness" hud="161 of Clubs" mimiccharge="12" pickup="6867" achievement="[HDPG] 161 of Clubs"/>
+    <card type="special" name="Clam Card" description="Fast travel" hud="Clam Card" mimiccharge="6" pickup="6869"/>
+    <card type="special" name="Manifestation" description="Repossess and remold" hud="Manifestation" mimiccharge="8" pickup="6868" achievement="[HDPG] Void Cards"/>
+    <card type="special" name="The Moon " description="Tidal lock " hud="Moon" mimiccharge="3" pickup="6871"/>
+    <card type="special" name="SD Card" description="isaac.exe" hud="SD Card" mimiccharge="3" pickup="6870"/>
+    <!-- Foks Wons -->
+	<card name="Tick Card" hud="Tick Card" pickup="245" 
+		type="special" description="The weaker you are the stronger it is" 
+		announcerdelay="30" mimiccharge="12" 
+		/>
+	<card name="Combusting Necromancy" hud="Combusting Necromancy" pickup="245" 
+		type="special" description="Friends... 'till the boom" 
+		announcerdelay="20" mimiccharge="4" 
+		/>
+	<card name="Chimera Form" hud="Chimera Form" pickup="245" 
+		type="special" description="You're everything" 
+		announcerdelay="45" mimiccharge="12" 
+		/>
+	<card name="Drug Grind" hud="Drug Grind" pickup="245" 
+		type="special" description="Change them into something fun" 
+		announcerdelay="60" mimiccharge="6" 
+		/>
+	<card name="2 of Gyatts" hud="2 of Gyatts" pickup="245" 
+		type="special" description="Gyatt multiplier" 
+		announcerdelay="20" mimiccharge="3" 
+		/>
+    <!-- BabyblueSheep -->
+	<card type="special" name="Dirt Block" 		description="...."                          hud="Dirt Block"    mimiccharge="4"  pickup="300" />
+	<card type="special" name="Wyvern" 			description="Few mortals know such things"  hud="Wyvern" 		mimiccharge="4"  pickup="300" />
+	<card type="special" name="Wraith" 			description="Pain, suffering, loneliness"   hud="Wraith" 		mimiccharge="6"  pickup="300" />
+	<card type="special" name="The Old Man" 	description="You pathetic fool"             hud="The Old Man" 	mimiccharge="2"	 pickup="300" />
+	<card type="special" name="Blue Slime" 		description="Squelch Squelch.." 			hud="Blue Slime" 	mimiccharge="12" pickup="300" />
+	<card type="special" name="Werewolf" 		description="AAAaaawwwwwwooooooooo." 		hud="Werewolf"	 	mimiccharge="3"  pickup="300" />
+	<card type="special" name="Megashark" 		description="Ratatatatatatat" 				hud="Megashark"		mimiccharge="4"  pickup="300" />
+    <!-- Brenden Doodle -->
+	<card type="special" name="Pot of Greed" description="Draw two" hud="Pot of Greed" mimiccharge="5" pickup="60"/>	
+	<card type="special" name="Misprint Card" description="May your future beel of destiny" hud="Misprint Card" mimiccharge="6" pickup="61"/>
+	<card type="special" name="Baseball Card" description="Home run" hud="Baseball Card" mimiccharge="3" pickup="62"/>	
+	<card type="special" name="Get Well Soon" description="May your pain fade with time" hud="Get Well Soon" mimiccharge="8" pickup="64"/>
+
+	<card type="special" name="Chaos Warp" description="Shuffle" hud="Chaos Warp" mimiccharge="5" pickup="65"/>	
+	<card type="special" name="Scan-n-Play" description="The game is inside the cards!" hud="Scan-n-Play" mimiccharge="2" pickup="63"/>
+	<card type="special" name="Mana Drain" description="Conservation of energy" hud="Mana Drain" mimiccharge="6" pickup="65"/>	
+	<card type="special" name="Raging River" description="Divide and conquer" hud="Raging River" mimiccharge="5" pickup="65"/>
+    <!-- Rat -->
+     <card name="Costco Card" description="???" hud="Membership Card" mimiccharge="12" pickup="170"/>
+    <!-- Dpower Reixen -->
+	<card type="special"	 	hud="Determination Card" 	description="Don't let go"				name="Determination Card" 			mimiccharge="12" 	pickup="630" />
+	<card type="special"	 	hud="Perseverance Card" 	description="Book birds"				name="Perseverance Card" 			mimiccharge="3" 	pickup="631" />
+	<card type="special"	 	hud="Kindness Card" 		description="Feast after battle"		name="Kindness Card" 				mimiccharge="6" 	pickup="632" />
+	<card type="special"	 	hud="Justice Card" 			description="Deadlock"					name="Justice Card" 				mimiccharge="6" 	pickup="633" />
+	<card type="special"	 	hud="Integrity Card" 		description="Graceful Steps"			name="Integrity Card" 				mimiccharge="4" 	pickup="634" />
+	<card type="special"	 	hud="Patience Card" 		description="Playing with Knives"		name="Patience Card" 				mimiccharge="3" 	pickup="635" />
+	<card type="special"	 	hud="Bravery Card" 			description="Packs a Punch"				name="Bravery Card" 				mimiccharge="2" 	pickup="636" />
+    <!-- 4Head Andre -->
+    <card type="tarot" name="The Log" description="Loooooooog!" hud="The Log" mimiccharge="4" pickup="220" />
+    <card type="tarot" name="Rage" description="Fleeting Rage" hud="Rage" mimiccharge="2" pickup="221" />
+    <!-- Jane Sorrow -->
+    <card name="Nobody"
+        description="Does nothing...?"
+        hud="Nobody"
+        type="special"
+        pickup="976"
+
+        mimiccharge="6"
+    />
+    <card name="Party Time"
+        description="Shared suffering"
+        hud="Party Time"
+        type="special"
+        pickup="976"
+
+        mimiccharge="12"
+    />
+    <card name="Infuriating Note"
+        description="You've been had..."
+        hud="Infuriating Note"
+        type="special"
+        pickup="976"
+
+        mimiccharge="2"
+    />
+    <card name="Beanstalk"
+        description="Power to the people!"
+        hud="Beanstalk"
+        type="special"
+        pickup="976"
+
+        mimiccharge="3"
+    />
+    <card name="Jerko"
+        description="Takes his time"
+        hud="Jerko"
+        type="special"
+        pickup="976"
+
+        mimiccharge="4"
+    />
+    <card name="Negative Nancy"
+        description="Look to la luna"
+        hud="Negative Nancy"
+        type="special"
+        pickup="976"
+
+        mimiccharge="12"
+    />
+    <card name="Talhak"
+        description="Choose your future"
+        hud="Talhak"
+        type="special"
+        pickup="976"
+
+        mimiccharge="4"
+    />
+    <card name="Yu Sze"
+        description="Might of the meek"
+        hud="Yu Sze"
+        type="special"
+        pickup="976"
+
+        mimiccharge="3"
+    />
+    <!-- John Sorrow -->
+    <card name="Little Boy Blue"
+        description="Only tears"
+        hud="Little Boy Blue"
+        type="special"
+        pickup="975"
+
+        mimiccharge="6"
+    />
+    <card name="Hat Trick"
+        description="Block damage sometimes"
+        hud="Hat Trick"
+        type="special"
+        pickup="975"
+
+        mimiccharge="12"
+    />
+    <card name="Comedian's Manifesto"
+        description="We the people"
+        hud="Comedian's Manifesto"
+        type="special"
+        pickup="975"
+
+        mimiccharge="12"
+    />
+    <card name="Lexicon"
+        description="ABCDEFG..."
+        hud="Lexicon"
+        type="special"
+        pickup="975"
+
+        mimiccharge="3"
+    />
+    <card name="Gnasher"
+        description="Consumable duplicator"
+        hud="Gnasher"
+        type="special"
+        pickup="975"
+
+        mimiccharge="5"
+    />
+    <card name="Silvio"
+        description="Charged destiny"
+        hud="Silvio"
+        type="special"
+        pickup="975"
+
+        mimiccharge="2"
+    />
+    <card name="Eulenspiegel"
+        description="In a loop"
+        hud="Eulenspiegel"
+        type="special"
+        pickup="975"
+
+        mimiccharge="12"
+    />
+    <card name="Coconut"
+        description="Temporary room"
+        hud="Coconut"
+        type="special"
+        pickup="975"
+
+        mimiccharge="12"
+    />
+</pocketitems>

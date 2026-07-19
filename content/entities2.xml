@@ -1,0 +1,368 @@
+<entities anm2root="gfx/" version="5">
+    <!-- Kerkel Biddy -->
+    <entity name="" id="1000" variant="40"/>
+    <entity name="Vivian Coconut" id="3" anm2path="familiar_viviancoconut.anm2" collisionMass="5" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="12"/>
+    <entity name="Vivian Guy" id="3" anm2path="familiar_vivianguy.anm2" collisionMass="3" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="11"/>
+    <entity name="Vivian Cloud" id="3" anm2path="familiar_viviancloud.anm2" collisionMass="3" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="11"/>
+    <entity name="VIII - Justice!" id="5" variant="300" subtype="60" anm2path="pocketitem_justice.anm2" collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16">
+        <preload-snd id="8"/>
+    </entity>
+    <entity name="Blue Asbestos Card" id="5" variant="300" subtype="161" anm2path="pocketitem_blueasbestoscard.anm2" collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16">
+        <preload-snd id="8"/>
+    </entity>
+    <entity name="Vivian Card" id="5" variant="300" subtype="162" anm2path="pocketitem_viviancard.anm2" collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16">
+        <preload-snd id="8"/>
+    </entity>
+    <entity name="Hexed Wild Card" id="5" variant="300" subtype="163" anm2path="pocketitem_wildcard.anm2" collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16">
+        <preload-snd id="8"/>
+    </entity>
+    <entity name="Red Card with White Question Mark in the Middle and a Border is Present and White Too" id="5" variant="300" subtype="164" anm2path="pocketitem_rcwwqmitmaabipawt.anm2" collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16">
+        <preload-snd id="8"/>
+    </entity>
+    <entity name="Phonkard" id="5" variant="300" subtype="165" anm2path="pocketitem_phonkard.anm2" collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16">
+        <preload-snd id="8"/>
+    </entity>
+    <entity name="Little Card John" id="5" variant="300" subtype="166" anm2path="pocketitem_littlecardjohn.anm2" collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16">
+        <preload-snd id="8"/>
+    </entity>
+    <entity name="Smash Kard" id="5" variant="300" subtype="167" anm2path="pocketitem_smashkard.anm2" collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16">
+        <preload-snd id="8"/>
+    </entity>
+    <entity name="The Great Oak" id="1000" anm2path="effect_oaktopus.anm2" collisionMass="3" collisionRadius="24" collisionRadiusYMulti="0.66" friction="1" numGridCollisionPoints="24" shadowSize="27"/>
+    <entity name="The Great Oak but Rare" id="1000" subtype="1" anm2path="effect_oaktopus_rare.anm2" collisionMass="3" collisionRadius="24" collisionRadiusYMulti="0.66" friction="1" numGridCollisionPoints="24" shadowSize="27"/>
+    <entity name="Oak Laser Sight" id="1000" anm2path="effect_oaklasersight.anm2" friction="1"/>
+    <entity name="Only Known Image of This Level" id="1000" anm2path="effect_blueasbestoshalls.anm2" friction="1"/>
+    <entity name="Skartball" id="1000" anm2path="effect_skartball.anm2" collisionMass="6" collisionRadius="16" friction="1" numGridCollisionPoints="12" shadowSize="13"/>
+    <entity name="Skartball Gib" id="1000" anm2path="effect_skartball.anm2" collisionRadius="1" friction="1"/>
+    <entity name="Skartball Particle" id="1000" anm2path="effect_skartball.anm2" friction="1"/>
+    <entity name="Lobgrenuke" id="1000" anm2path="effect_lobgrenuke.anm2" collisionMass="6" collisionRadius="16" friction="1" numGridCollisionPoints="12" shadowSize="13"/>
+    <entity name="Fricking,....Skart spike" id="1000" anm2path="effect_smashspikes.anm2" collisionMass="6" collisionRadius="16" friction="1" numGridCollisionPoints="12" shadowSize="13"/>
+    <entity name="Skart Loot Box" id="1000" anm2path="pocketitem_smashkard.anm2" collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16"/>
+    <entity name="Vivian Box" id="1000" anm2path="grid_vivianbox.anm2"/>
+    <entity name="Vivian Box Target" id="1000" anm2path="1000.030_dr. fetus target.anm2" friction="1"/>
+    <entity name="Vivian Cloud Effect" id="1000" anm2path="1000.105_BrownCloud.anm2" friction="1"/>
+    <entity name="Sandy Death's Head" id="1000" anm2path="effect_sandydeathshead.anm2" gridCollision="none" collisionMass="20" collisionRadius="13" friction="1" numGridCollisionPoints="12" portrait="322" shadowSize="17"/>
+    <!-- Aeronaut Truji -->
+    <entity anm2path="cardjam_at_duellistcard.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Duellist Card (CardJamAT)" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" subtype="3650">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+    <entity anm2path="cardjam_at_amalgam.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Amalgam (CardJamAT)" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" subtype="3651">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+    <entity anm2path="cardjam_at_inscribedcard.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Inscribed Card (CardJamAT)" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" subtype="3652">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+    <entity anm2path="cardjam_at_punchcard.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Punch Card (CardJamAT)" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" subtype="3653">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+    <entity anm2path="cardjam_at_gatecard.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Gate Card (CardJamAT)" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" subtype="3654">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <!-- Spoop Split -->
+    <entity name="Flip-Flop Card" id="5" variant="300" subtype="973" anm2path="pickups/card_flipflop_red.anm2"
+        friction="1" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" 
+        collisionRadius="12" numGridCollisionPoints="12" shadowSize="16" stageHP="0">
+		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+        <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+    <entity name="Flipped Flip-Flop Card" id="5" variant="300" subtype="974" anm2path="pickups/card_flipflop_blue.anm2"
+        friction="1" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3"
+        collisionRadius="12" numGridCollisionPoints="12" shadowSize="16" stageHP="0">
+		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+        <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+
+    <entity name="Scratch (alt) Tear" id="2" variant="9" subtype="0" anm2path="tears/tear_scratchalt.anm2"
+        friction="1" baseHP="0" boss="0"  champion="0" collisionDamage="0" collisionMass="8"
+        collisionRadius="7" numGridCollisionPoints="8" shadowSize="8" stageHP="0">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+    </entity>
+    <!-- Stale -->
+    <entity anm2path="pickup/pickup_Discocard.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="[Card Jam Stale] Disco Cards" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" subtype="17714">
+        <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+    <!-- Gloopy20 -->
+    <entity name="Yara Yara Card" id="5" variant="300" subtype="248562" anm2path="yara_yara_card.anm2" collisionRadius="12" collisionMass="3" friction="1" numGridCollisionPoints="24" shadowSize="16"/>
+    <!-- Monwil Skulldier -->
+	<entity anm2path="grid/door_08_holeinwall.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1" collisionRadius="0" friction="10" id="1000" variant="67" name="[HDPG] Hole in wall" numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="hdpg_moon_particle.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1" collisionRadius="0" friction="1" id="1000" variant="67" name="[HDPG] Moon Particle" numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+    <entity anm2path="hdpg_moon_particle.anm2" id="980" name="[HDPG] Red Seal Card Spawner" subtype="1"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1" collisionRadius="0" friction="1" numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="hdpg_moon_particle.anm2" id="980" name="[HDPG] 161 of Clubs Card Spawner" subtype="2"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1" collisionRadius="0" friction="1" numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="hdpg_moon_particle.anm2" id="980" name="[HDPG] Echo Card Spawner" subtype="3"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1" collisionRadius="0" friction="1" numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="hdpg_moon_particle.anm2" id="980" name="[HDPG] Manifestation Card Spawner" subtype="4"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1" collisionRadius="0" friction="1" numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="hdpg_moon_particle.anm2" id="980" name="[HDPG] Nihil Card Spawner" subtype="5"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1" collisionRadius="0" friction="1" numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="hdpg_moon_particle.anm2" id="980" name="[HDPG] Clam Card Card Spawner" subtype="6"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1" collisionRadius="0" friction="1" numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="hdpg_moon_particle.anm2" id="980" name="[HDPG] Moon Card Spawner" subtype="7"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1" collisionRadius="0" friction="1" numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="hdpg_moon_particle.anm2" id="980" name="[HDPG] SD Card Spawner" subtype="8"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1" collisionRadius="0" friction="1" numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+    <entity anm2path="hdpg_cheater_card.anm2" name="[HDPG] Cheater Card" subtype="6867"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1"
+        id="5" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" 
+    />
+    <entity anm2path="hdpg_void_card.anm2" name="[HDPG] Void Card" subtype="6868"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1"
+        id="5" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" 
+    />
+    <entity anm2path="hdpg_clam_card.anm2" name="[HDPG] Clam Card" subtype="6869"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1"
+        id="5" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" 
+    />
+    <entity anm2path="hdpg_sd_card.anm2" name="[HDPG] SD Card" subtype="6870"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1"
+        id="5" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" 
+    />
+    <entity anm2path="hdpg_moon_card.anm2" name="[HDPG] Moon Card" subtype="6871"
+        baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1"
+        id="5" numGridCollisionPoints="24" shadowSize="32" stageHP="0" variant="300" 
+    />
+    <!-- Foks Wons -->
+	<entity id="5" variant="300" subtype="245" name="ModJam Card" anm2path="pickup_modjamcard.anm2" 
+		friction="1" numGridCollisionPoints="24" collisionMass="3" collisionRadius="12" 
+		shadowSize="16" 
+		/>
+    <!-- BabyblueSheep -->
+	<entity id="5" variant="300" subtype="300" name="Terraria Collector's Edition Trading Card" anm2path="modjam_v3/items/pick ups/terraria card back.anm2"
+			shadowSize="16"
+			numGridCollisionPoints="24" collisionMass="3" collisionRadius="12" friction="1" />
+    <!-- Brenden Doodle -->
+    <entity anm2path="items/cardback_baseball.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Baseball Card" numGridCollisionPoints="24" shadowSize="16" stageHP="0" subtype="62" variant="300">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+        <preload-snd id="8"/>
+    </entity>
+
+    <entity anm2path="items/cardback_misprint.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Misprint Card" numGridCollisionPoints="24" shadowSize="16" stageHP="0" subtype="61" variant="300">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+        <preload-snd id="8"/>
+    </entity>
+
+    <entity anm2path="items/cardback_scannplay.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Scan-n-Play Card" numGridCollisionPoints="24" shadowSize="16" stageHP="0" subtype="63" variant="300">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+        <preload-snd id="8"/>
+    </entity>
+
+    <entity anm2path="items/cardback_yugioh.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Yu-Gi-Oh Card" numGridCollisionPoints="24" shadowSize="16" stageHP="0" subtype="60" variant="300">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+        <preload-snd id="8"/>
+    </entity>
+
+    <entity anm2path="items/cardback_getwellsoon.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Get Well Soon Card" numGridCollisionPoints="24" shadowSize="16" stageHP="0" subtype="64" variant="300">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+        <preload-snd id="8"/>
+    </entity>
+
+    <entity anm2path="items/cardback_modjammagic.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Modjam Magic Card" numGridCollisionPoints="24" shadowSize="16" stageHP="0" subtype="65" variant="300">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+        <preload-snd id="8"/>
+    </entity>
+
+
+    <entity anm2path="effects/drainEffect.anm2" collisionMass="100" collisionRadius="13" friction="1" id="1000" name="Mana Wave Effect 1" numGridCollisionPoints="12" shadowSize="0"  variant="1928" subtype="0" >
+	</entity>
+	<entity anm2path="effects/drainEffect.anm2" collisionMass="100" collisionRadius="13" friction="1" id="1000" name="Mana Wave Effect 2" numGridCollisionPoints="12" shadowSize="0"  variant="1929" subtype="0" >
+	</entity>
+
+    <entity anm2path="effects/manaEffect.anm2" collisionMass="100" collisionRadius="13" friction="1" id="1000" name="Mana Effect" numGridCollisionPoints="12" shadowSize="0"  variant="1930" subtype="0" >
+	</entity>
+
+    <entity anm2path="effects/waterWave.anm2" collisionMass="100" collisionRadius="13" friction="1" id="1000" name="Water Wave" numGridCollisionPoints="12" shadowSize="0"  variant="1931" subtype="0" >
+	</entity>
+    <!-- Rat -->
+	<entity anm2path="items/cards/membership_card.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Membership Card" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" subtype="170">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+	    <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+
+    	<entity name="Hotdog" id="1000" variant="943" anm2path="effect_meatspin.anm2" friction="1" collisionRadius="13" numGridCollisionPoints="6" collisionMass="1000"/>
+    <!-- Dpower Reixen -->
+	<!--Effects    ID = "1000"-->
+
+	<entity name="Ballet Leg"
+		id="1000" anm2path="effect_ballet_stomp.anm2" friction="1"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="9"   numGridCollisionPoints="9" shadowSize="0" stageHP="0" >
+        	<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+	<entity name="Green Cooking Pan"
+		id="1000" anm2path="effect_cooking_pan.anm2" friction="1"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="0"   numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        	<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+	<entity name="Yellow's Colt Anaconda"
+		id="1000" anm2path="effect_colt_anaconda.anm2" friction="1"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="0"   numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        	<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+	<entity name="Death Refusal"
+		id="1000" anm2path="effect_death_refusal.anm2" friction="1"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="0"   numGridCollisionPoints="0" shadowSize="0" stageHP="0" >
+        	<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+	<!--Tears   ID = "2"-->
+
+	<entity name="Orange Glove"
+		id="2" variant="663" anm2path="tear_orange_glove.anm2" friction="1"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="40" collisionRadius="16" numGridCollisionPoints="8" shadowSize="16" stageHP="0" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+	<!--Familiars ID = "3"-->
+
+    <entity name="Flying Book" baseHP = "10"
+		id="3" anm2path="familiar_flying_book.anm2" friction="1" 
+		numGridCollisionPoints="6" collisionMass="7" collisionRadius="12" 
+		shadowSize="15">
+	</entity>
+
+	<!--Bombs ID ="4"-->
+
+	<!--Pickups ID ="5"-->
+
+	<!-- Hearts ID = "5" Variant = "10"-->
+
+
+	<!--Coins ID = "5" Variant = "20"-->
+
+
+	<!-- Keys ID = "5" Variant = "30"-->
+
+
+	<!-- id = "5" Variant = "300" CARDS HERE:
+
+	* to add cards you need to create an entry here for each one!!!!
+	* make sure pickup subtype matches the "pickup" property in pocketitems.xml!
+	* subtypes from epiphany start at 500, subtypes from gimp start at 600, max subtype is 1024 -->
+
+	<entity name="Determination Card"
+		id ="5" variant="300" subtype="630" anm2path="pickup_soul_cardback.anm2" friction="1"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" numGridCollisionPoints="24" shadowSize="16" stageHP="0">
+	    <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+
+	<entity name="Perseverance Card"
+		id ="5" variant="300" subtype="631" anm2path="pickup_soul_cardback.anm2" friction="1"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" numGridCollisionPoints="24" shadowSize="16" stageHP="0">
+	    <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+
+	<entity name="Kindness Card"
+		id ="5" variant="300" subtype="632" anm2path="pickup_soul_cardback.anm2" friction="1"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" numGridCollisionPoints="24" shadowSize="16" stageHP="0">
+	    <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+
+	<entity name="Justice Card"
+		id ="5" variant="300" subtype="633" anm2path="pickup_soul_cardback.anm2" friction="1"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" numGridCollisionPoints="24" shadowSize="16" stageHP="0">
+	    <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+
+	<entity name="Integrity Card"
+		id ="5" variant="300" subtype="634" anm2path="pickup_soul_cardback.anm2" friction="1"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" numGridCollisionPoints="24" shadowSize="16" stageHP="0">
+	    <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+
+	<entity name="Patience Card"
+		id ="5" variant="300" subtype="635" anm2path="pickup_soul_cardback.anm2" friction="1"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" numGridCollisionPoints="24" shadowSize="16" stageHP="0">
+	    <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+
+	<entity name="Bravery Card"
+		id ="5" variant="300" subtype="636" anm2path="pickup_soul_cardback.anm2" friction="1"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" numGridCollisionPoints="24" shadowSize="16" stageHP="0">
+	    <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+
+	<!--Slot machines and beggars ID ="6"-->
+
+	<!--ID = "8"-->
+
+	<entity name="Cyan Toy Knife"
+		id="8" variant="0" subtype="16" anm2path="effect_toy_knife.anm2"
+		baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="9" collisionRadiusYMulti="4" 
+		friction="1" numGridCollisionPoints="0" shadowSize="35" stageHP="0">
+    	<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+    </entity>
+
+
+	<!--Enemies-->
+
+	<!-- Basement Renovator Helpers -->
+    <!-- 4Head Andre -->
+    <entity name="The Log" id="1000" variant="220" subtype="0"
+        anm2path="log.anm2" baseHP="30" stageHP="0"
+        collisionDamage="1" collisionMass="50" collisionRadius="15" numGridCollisionPoints="12"
+        shadowSize="0" friction="1" reroll="true" champion="1">
+    </entity>
+    <entity name="Rage Potion" id="1000" variant="221" subtype="0"
+        anm2path="rage_bottle.anm2" baseHP="0" stageHP="0"
+        collisionDamage="0" collisionMass="1" collisionRadius="0" numGridCollisionPoints="0"
+        shadowSize="0" friction="1">
+    </entity>
+    <entity name="Rage Area" id="1000" variant="222" subtype="0"
+        anm2path="rage_area.anm2" baseHP="0" stageHP="0"
+        collisionDamage="0" collisionMass="1" collisionRadius="0" numGridCollisionPoints="0"
+        shadowSize="0" friction="1">
+    </entity>
+    <entity name="The Log Card" id="5" variant="300" subtype="220"
+        anm2path="card_log.anm2" baseHP="0" stageHP="0" boss="0" champion="0"
+        collisionDamage="0" collisionMass="3" collisionRadius="12" numGridCollisionPoints="24"
+        shadowSize="16" friction="1">
+    </entity>
+    <entity name="Rage Card" id="5" variant="300" subtype="221"
+        anm2path="card_rage.anm2" baseHP="0" stageHP="0" boss="0" champion="0"
+        collisionDamage="0" collisionMass="3" collisionRadius="12" numGridCollisionPoints="24"
+        shadowSize="16" friction="1">
+    </entity>
+    <!-- Jane Sorrow -->
+    <entity name="All-in-Jane Card" id="5" variant="300" subtype="976" anm2path="pickups/card_all_in_jane.anm2"
+        friction="1" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" 
+        collisionRadius="12" numGridCollisionPoints="12" shadowSize="16" stageHP="0">
+		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+        <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+    <!-- John Sorrow -->
+    <entity name="All-in-John Card" id="5" variant="300" subtype="975" anm2path="pickups/card_all_in_john.anm2"
+        friction="1" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" 
+        collisionRadius="12" numGridCollisionPoints="12" shadowSize="16" stageHP="0">
+		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+        <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
+    </entity>
+</entities>

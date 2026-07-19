@@ -1,0 +1,21 @@
+<costumes anm2root="gfx/">
+    <!-- Kerkel Biddybododode -->
+    <costume id="1" anm2path="characters/lootbox.anm2" type="passive"/>
+    <costume anm2path="characters/costume_javon.anm2" type="none" priority="99" hasSkinAlt="true"/>
+    <!-- Monwil Skulldier -->
+    <costume id="4" anm2path="characters/old_data_costume.anm2" type="passive" hasSkinAlt="true" />
+    <costume anm2path="characters/isaac_exe_costume.anm2" type="none" hasSkinAlt="true" />
+    <!-- BabyblueSheep -->
+	<!-- Wyvern Stat Boost -->
+	<costume id="1" type="none"
+		anm2path="modjam_v3/characters/costume_wyvern_boost.anm2" />
+
+	<!-- Wraith Flight -->
+	<!-- <costume id="2" type="none"
+		anm2path="modjam_v3/characters/costume_wraith_flight.anm2"
+		skinColor="1" overwriteColor="true" isFlying="true" /> -->
+
+	<!-- Wyvern Stat Boost -->
+	<costume id="5" type="none"
+		anm2path="modjam_v3/characters/n_horse_puberty.anm2" />
+</costumes>

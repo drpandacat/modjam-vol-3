@@ -1,0 +1,11 @@
+<backdrops gfxroot="gfx/backdrop/" gridgfxroot="gfx/grid/" effectsgfxroot="gfx/effects/">
+	<!-- Kerkel Biddybododode -->
+	<backdrop name="Blue Asbestos Halls" gfx="blueasbestoshalls.png" walls="1" wallvariants="3" floors="1" floorvariants="4"
+		props		= "Props_07_The Womb_blue.anm2"
+		rocks		= "rocks_bluewomb.png"
+		pit			= "grid_pit_bluewomb.png"
+		bridge		= "grid_bridge_bluewomb.png"
+		door		= "door_01_bluewombdoor.png"
+		holeinwall	= "door_08_holeinwall_cathedral.png"
+	/>
+</backdrops>

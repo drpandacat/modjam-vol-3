@@ -1,0 +1,36 @@
+<ItemPools>
+	<Pool Name="shop">
+		<Item Name="Loot Box" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Guess the Jest!" Weight="0.5" DecreaseBy="0.5"/>
+	</Pool>
+	<Pool Name="greedShop">
+		<Item Name="Loot Box" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Duelling Disk" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+        <Item Name="Guess the Jest!" Weight="0.5" DecreaseBy="0.5"/>
+	</Pool>
+    <Pool Name="treasure">
+        <Item Name="Duelling Disk" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+        <Item Name="Double-Sided Card"/>
+        <Item Name="Binder" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool Name="greedTreasure">
+        <Item Name="Duelling Disk" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+        <Item Name="Double-Sided Card"/>
+        <Item Name="Binder" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool Name="craneGame">
+		<Item Name="Loot Box" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Duelling Disk" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="secret">
+        <Item Name="Double-Sided Card"/>
+        <Item Name="Guess the Jest!" Weight="0.5" DecreaseBy="0.5"/>
+    </Pool>
+    <Pool Name="greedSecret">
+        <Item Name="Double-Sided Card"/>
+        <Item Name="Guess the Jest!" Weight="0.5" DecreaseBy="0.5"/>
+    </Pool>
+    <Pool Name="library">
+        <Item Name="Binder" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+</ItemPools>

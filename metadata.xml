@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ModJam Vol. 3 (75+ New Cards!)</name>
+    <directory>modjam-vol-3</directory>
+    <id>3767867836</id>
+    <description>[h2] [b]REPENTOGON+ IS REQUIRED![/b] [/h2]
+[i] You know the drill, download Repentogon+ [url=https://repentogon.com/] here! [/url] [/i]
+
+[h2] [b]75+ New Cards![/b] [/h2]
+[img] https://file.garden/aYULvni48hrZ2pCM/Template.gif [/img]
+[b]ModJam Volume 3 is all about cards![/b] This mod introduces a new card set containing over [b] 75 [/b] new cards for you to find in your runs! Some are pretty simple, while others are, well, [i] very interesting [/i] to say the least. Each team was allowed to create up to 8 cards and 1 miscellaneous thing, such as an item, trinket, or something else! We hope you enjoy using these new cards!
+
+For those looking to try to find the cards without relying on random room clear rewards, there's a new item called [b] Binder [/b] that spawns a card from the mod upon use! It can be found in the Treasure and Library pools, but can also be spawned via the console.
+
+[h3] Credits [/h3]
+[list]
+[*] [b]ConBoi[/b] - Jam Organizer
+[*] [b]Kerkel[/b] - Mod Compiler (ty goat)
+[*] [b]Split[/b] - Thumbnail Artist (also ty goat)
+[/list]
+
+[h3] Cards created by the following teams: [/h3]
+[list]
+[*] [b]Skulldier, Monwil[/b]
+[*] [b]Kerkel, Biddybododode[/b]
+[*] [b]Reixen, DPower[/b]
+[*] [b]Doodledude, Brenden_Person[/b]
+[*] [b]Aeronaut, Truji[/b]
+[*] [b]Spoop, Split[/b]
+[*] [b]Foks, Wons[/b]
+[*] [b]Babybluesheep[/b]
+[*] [b]Stale[/b]
+[*] [b]4Head, Andre Doruk[/b]
+[*] [b]Rat[/b]
+[*] [b]John Sorrow[/b]
+[*] [b]Jane Sorrow[/b]
+[*] [b]Gloopy20[/b]
+[/list]
+
+[i] Check out ModJam Vol. 1 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3555278833] here [/url] and ModJam Vol. 2 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3662150881] here [/url] if you haven't seen them! [/i]</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Trinkets"/>
+    <tag id="Cards"/>
+    <tag id="Pickups"/>
+    <tag id="Player Characters"/>
+    <tag id="Familiars"/>
+    <tag id="Rooms"/>
+    <tag id="Hazards"/>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
+    <tag id="Sound Effects"/>
+    <tag id="Music"/>
+</metadata>

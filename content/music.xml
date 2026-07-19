@@ -1,0 +1,10 @@
+<music root="music/">
+	<!-- Kerkel Biddybododode -->
+	<track name="Isaac Phonk" path="isaacphonk.ogg" loop="false"/>
+	<track name="Vivian Clark Title" path="clark.ogg" loop="false"/>
+	<!-- Gloopy20 -->
+	<track name="Yara Yara" path="yara_yara.ogg" loop="true"/>
+	<!-- Monwil Skulldier -->
+    <track name="[HDPG] Funky Town" path="banger.ogg" loop="true" />
+    <track name="[HDPG] Isaac.exe" path="02. Hill Zone.ogg" loop="true" />
+</music>

@@ -1,0 +1,183 @@
+<sounds root="sfx/">
+	<!-- Kerkel Biddy -->
+	<sound name="Oak Summon">
+		<sample weight="1" path="oaksummon.wav"/>
+	</sound>
+	<sound name="Oak Laser Sight">
+		<sample weight="1" path="oaklasersight.wav"/>
+	</sound>
+	<sound name="Skart Bubble">
+		<sample weight="1" path="skartbubble.wav"/>
+	</sound>
+	<sound name="Skart Beep">
+		<sample weight="1" path="skartbeep.wav"/>
+	</sound>
+	<sound name="Skart Rifle">
+		<sample weight="1" path="skartrifle.wav"/>
+	</sound>
+	<sound name="Skart Snow">
+		<sample weight="1" path="skartsnow.wav"/>
+	</sound>
+	<sound name="Skart Powerup">
+		<sample weight="1" path="skartpowerup.wav"/>
+	</sound>
+	<sound name="Skart Horn">
+		<sample weight="1" path="skarthorn.wav"/>
+	</sound>
+	<sound name="Skart Whoosh">
+		<sample weight="1" path="skartwhoosh.wav"/>
+	</sound>
+	<sound name="justicevox">
+		<sample weight="1" path="justicevox.wav"/>
+	</sound>
+	<sound name="justicevox">
+		<sample weight="1" path="justicevox.wav"/>
+	</sound>
+	<sound name="littlecardjohnvox">
+		<sample weight="1" path="littlecardjohnvox.wav"/>
+	</sound>
+	<sound name="phonkardvox">
+		<sample weight="1" path="phonkardvox.wav"/>
+	</sound>
+	<sound name="rcvox">
+		<sample weight="1" path="rcvox.wav"/>
+	</sound>
+	<sound name="bahvox">
+		<sample weight="1" path="bahvox.wav"/>
+	</sound>
+	<sound name="viviancardvox">
+		<sample weight="1" path="viviancardvox.wav"/>
+	</sound>
+	<sound name="wildcardvox">
+		<sample weight="1" path="wildcardvox.wav"/>
+	</sound>
+	<sound name="smashkardvox">
+		<sample weight="1" path="smashkardvox.wav"/>
+	</sound>
+	<!-- Spoop Split -->
+	<sound name="Jackpot (CardJam)">
+		<sample weight="1" path="jackpot_flip.wav" />
+	</sound>
+	<sound name="Chalk (CardJam)">
+		<sample weight="1" path="chalk1.wav" />
+		<sample weight="1" path="chalk2.wav" />
+	</sound>
+	<sound name="Error (CardJam)">
+		<sample weight="1" path="error_flip.wav" />
+	</sound>
+
+
+	<sound name="Voice Report 1 (CardJam)">
+		<sample weight="1" path="voice_report1.wav" />
+	</sound>
+	<sound name="Voice Report 2 (CardJam)">
+		<sample weight="1" path="voice_report2.wav" />
+	</sound>
+	<sound name="Voice Scratch 1 (CardJam)">
+		<sample weight="1" path="voice_scratch1.wav" />
+	</sound>
+	<sound name="Voice Scratch 2 (CardJam)">
+		<sample weight="1" path="voice_scratch2.wav" />
+	</sound>
+	<sound name="Voice Charm 1 (CardJam)">
+		<sample weight="1" path="voice_charm1.wav" />
+	</sound>
+	<sound name="Voice Charm 2 (CardJam)">
+		<sample weight="1" path="voice_charm2.wav" />
+	</sound>
+	<sound name="Voice Board 1 (CardJam)">
+		<sample weight="1" path="voice_board1.wav" />
+	</sound>
+	<sound name="Voice Board 2 (CardJam)">
+		<sample weight="1" path="voice_board2.wav" />
+	</sound>
+	<!-- Monwil Skulldier -->
+    <sound name="[HDPG] Clam Card Use">
+        <sample path="clam_card_use.wav" />
+    </sound>
+    <sound name="[HDPG] Moon Use">
+        <sample path="moon_use.wav" />
+    </sound>
+    <sound name="[HDPG] Red Seal Retrigger">
+        <sample path="red_seal_retrigger1.wav" />
+        <!-- <sample path="red_seal_retrigger2.wav" /> -->
+    </sound>
+    <sound name="[HDPG] Red Seal Finish">
+        <sample path="red_seal_finish.wav" />
+    </sound>
+	<!-- Foks Wons -->
+	<sound name="Tick Card">
+		<sample path="voiceover/voiceover_tickcard.wav" weight="1"/>
+	</sound>
+	<sound name="Combusting Necromancy">
+		<sample path="voiceover/voiceover_combustingnecromancy.wav" weight="1"/>
+	</sound>
+	<sound name="Chimera Form">
+		<sample path="voiceover/voiceover_chimeraform.wav" weight="1"/>
+	</sound>
+	<sound name="Drug Grind">
+		<sample path="voiceover/voiceover_druggrind.wav" weight="1"/>
+	</sound>
+	<sound name="2 of Gyatts">
+		<sample path="voiceover/voiceover_twoofgyatts.wav" weight="1"/>
+	</sound>
+	<!-- BabyblueSheep -->
+	<sound name="ModJamV3 Gun Reloading">
+		<sample weight="1" path="modjam_v3/gun_reloading.wav" /> <!-- https://freesound.org/people/SoundBiterSFX/sounds/732208/ -->
+	</sound>
+	<!-- Brenden Doodle -->
+	<sound name = "Baseball Charge" >
+		<sample weight = "1" path ="baseballcharge.wav" />
+	</sound>
+	<!-- Dpower Reixen -->
+    <sound name ="Revolver Shot"> <sample weight="1" path="sound_revolver_shot.wav" /> </sound>
+    <sound name ="Woaw"> <sample weight="1" path="sound_woaw.wav" /> </sound>
+	<!-- 4Head Andre -->
+	<sound name="Log Vocal">
+		<sample weight="1" path="log_vocal_01.wav" />
+	</sound>
+	<sound name="Log Roll">
+		<sample weight="1" path="logroll01.wav" />
+	</sound>
+	<sound name="Log Destroy">
+		<sample weight="1" path="logdestroy.wav" />
+	</sound>
+	<sound name="Rage Use">
+		<sample weight="1" path="rage_spell_01.wav" />
+	</sound>
+	<sound name="Clash Card Spell Use">
+		<sample weight="1" path="clash_card_spell_activate.wav" />
+	</sound>
+	<!-- Jane Sorrow -->
+	<sound name="AIJ - Balance">
+		<sample weight="1" path="balance.wav" />
+	</sound>
+	<sound name="AIJ - Cash">
+		<sample weight="1" path="cash.wav" />
+	</sound>
+	<sound name="AIJ - Foil">
+		<sample weight="1" path="foil.wav" />
+	</sound>
+	<sound name="AIJ - Forge">
+		<sample weight="1" path="hammer_forge.wav" />
+	</sound>
+	<sound name="AIJ - Jimbo">
+		<sample weight="1" path="jimbo_talk.wav" />
+	</sound>
+	<sound name="AIJ - Joker">
+		<sample weight="1" path="jokeradd.wav" />
+	</sound>
+	<sound name="AIJ - Mult">
+		<sample weight="1" path="mult.wav" />
+	</sound>
+	<sound name="AIJ - XMult">
+		<sample weight="1" path="xmult.wav" />
+	</sound>
+	<sound name="AIJ - Polychrome">
+		<sample weight="1" path="polychrome.wav" />
+	</sound>
+	<!-- Meta -->
+	<sound name="vrudwhat">
+		<sample weight="1" path="vrudwhat.wav" />
+	</sound>
+</sounds>

@@ -1,0 +1,2097 @@
+<AnimatedActor>
+	<Info CreatedBy="Everyone!" CreatedOn="7/18/2026 7:50:02 PM" Version="71" Fps="30"/>
+	<Content>
+		<Spritesheets>
+			<Spritesheet Path="..\..\resources\gfx\qpwooeasidlsjfjdvndfv\pocketitems.png" Id="0"/>
+			<Spritesheet Path="..\..\resources\gfx\items\cardjam_at_unshadowed.png" Id="1"/>
+			<Spritesheet Path="..\..\resources\gfx\ui\cardjam_at_fronts.png" Id="2"/>
+			<Spritesheet Path="ui_cardfronts.png" Id="3"/>
+			<Spritesheet Path="ui_CardFronts_stale.png" Id="4"/>
+			<Spritesheet Path="..\..\resources\gfx\yara_yara_card.png" Id="5"/>
+			<Spritesheet Path="..\..\resources\gfx\ui\hodgepodge_cards_ui.png" Id="6"/>
+			<Spritesheet Path="ui_cardfronts_fokswons.png" Id="7"/>
+			<Spritesheet Path="..\..\resources\gfx\modjam_v3\items\pick ups\terraria cards front.png" Id="8"/>
+			<Spritesheet Path="pocketitems.png" Id="9"/>
+			<Spritesheet Path="ui_cardfronts_rat.png" Id="10"/>
+			<Spritesheet Path="ui_cardfronts_dpowerreixen.png" Id="11"/>
+			<Spritesheet Path="ui_CardFronts_4headandre.png" Id="12"/>
+			<Spritesheet Path="ui_cardfronts_janesorrow.png" Id="13"/>
+			<Spritesheet Path="ui_cardfronts_johnsorrow.png" Id="14"/>
+		</Spritesheets>
+		<Layers>
+			<Layer Name="kerkelbiddy" Id="0" SpritesheetId="0"/>
+			<Layer Name="aeronauttruji1" Id="1" SpritesheetId="2"/>
+			<Layer Name="aeronauttruji2" Id="2" SpritesheetId="1"/>
+			<Layer Name="spoopsplit" Id="3" SpritesheetId="3"/>
+			<Layer Name="stale" Id="4" SpritesheetId="4"/>
+			<Layer Name="gloopy20" Id="5" SpritesheetId="5"/>
+			<Layer Name="monwilskulldier" Id="6" SpritesheetId="6"/>
+			<Layer Name="fokswons" Id="7" SpritesheetId="7"/>
+			<Layer Name="babybluesheep" Id="8" SpritesheetId="8"/>
+			<Layer Name="brendendoodle" Id="9" SpritesheetId="9"/>
+			<Layer Name="rat" Id="10" SpritesheetId="10"/>
+			<Layer Name="dpowerreixen" Id="11" SpritesheetId="11"/>
+			<Layer Name="4headandre" Id="12" SpritesheetId="12"/>
+			<Layer Name="janesorrow" Id="13" SpritesheetId="13"/>
+			<Layer Name="johnsorrow" Id="14" SpritesheetId="14"/>
+		</Layers>
+		<Nulls/>
+		<Events/>
+	</Content>
+	<Animations DefaultAnimation="VIII - Justice!">
+		<Animation Name="VIII - Justice!" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="0" Visible="true">
+					<Frame XPosition="0" YPosition="-2" XPivot="16" YPivot="16" XCrop="64" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Blue Asbestos Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="0" Visible="true">
+					<Frame XPosition="0" YPosition="-2" XPivot="16" YPivot="16" XCrop="64" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Vivian Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="0" Visible="true">
+					<Frame XPosition="0" YPosition="-2" XPivot="16" YPivot="16" XCrop="64" YCrop="64" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Hexed Wild Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="0" Visible="true">
+					<Frame XPosition="0" YPosition="-2" XPivot="16" YPivot="16" XCrop="64" YCrop="96" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Red Card with White Question Mark in the Middle and a Border is Present and White Too" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="0" Visible="true">
+					<Frame XPosition="0" YPosition="-2" XPivot="16" YPivot="16" XCrop="64" YCrop="128" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Phonkard" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="0" Visible="true">
+					<Frame XPosition="0" YPosition="-2" XPivot="16" YPivot="16" XCrop="64" YCrop="160" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Little Card John" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="0" Visible="true">
+					<Frame XPosition="0" YPosition="-2" XPivot="16" YPivot="16" XCrop="64" YCrop="192" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Smash Kard" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="0" Visible="true">
+					<Frame XPosition="0" YPosition="-2" XPivot="16" YPivot="16" XCrop="64" YCrop="224" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="CardJamAT_Polymerization" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="0" YCrop="24" Width="16" Height="20" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="CardJamAT_Amalgam" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="0" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="CardJamAT_Ijiraq" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="0" YCrop="0" Width="16" Height="20" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="CardJamAT_PunchCard" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="16" YCrop="24" Width="16" Height="20" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="CardJamAT_MagneticCard" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="16" YCrop="0" Width="16" Height="20" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Report" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="0" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Scratch" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="32" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Charm" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="64" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Board" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="96" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Report (alt)" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="0" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Scratch (alt)" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="32" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Charm (alt)" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="64" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Board (alt)" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="96" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Electrochemistry" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="0" YCrop="0" Width="16" Height="20" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="InlandEmpire" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="16" YCrop="0" Width="16" Height="20" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="YaraYara" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="32" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Red Seal" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true">
+					<Frame XPosition="9" YPosition="7" XPivot="16" YPivot="16" XCrop="1" YCrop="1" Width="14" Height="18" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Nihil" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true">
+					<Frame XPosition="9" YPosition="7" XPivot="16" YPivot="16" XCrop="17" YCrop="1" Width="14" Height="18" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Echo" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true">
+					<Frame XPosition="9" YPosition="7" XPivot="16" YPivot="16" XCrop="33" YCrop="1" Width="14" Height="18" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="161 of Clubs" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true">
+					<Frame XPosition="9" YPosition="7" XPivot="16" YPivot="16" XCrop="49" YCrop="1" Width="14" Height="18" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Clam Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true">
+					<Frame XPosition="9" YPosition="7" XPivot="16" YPivot="16" XCrop="1" YCrop="21" Width="14" Height="18" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Manifestation" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true">
+					<Frame XPosition="9" YPosition="7" XPivot="16" YPivot="16" XCrop="17" YCrop="21" Width="14" Height="18" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Moon" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true">
+					<Frame XPosition="9" YPosition="7" XPivot="32" YPivot="40" XCrop="64" YCrop="0" Width="48" Height="48" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="SD Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true">
+					<Frame XPosition="9" YPosition="7" XPivot="16" YPivot="16" XCrop="33" YCrop="21" Width="14" Height="18" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Tick Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="0" YCrop="0" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Host Missiles" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="16" YCrop="0" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Combusting Necromancy" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="32" YCrop="0" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Drug Grind" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="48" YCrop="0" Width="16" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Chimera Form" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="64" YCrop="0" Width="16" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="2 of Gyatts" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="80" YCrop="0" Width="16" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Dirt Block" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="0" YCrop="0" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Wyvern" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="16" YCrop="0" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Wraith" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="32" YCrop="0" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="The Old Man" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="48" YCrop="0" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Blue Slime" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="0" YCrop="24" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Werewolf" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="16" YCrop="24" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Megashark" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="32" YCrop="24" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Pot of Greed" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="19" XCrop="128" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Misprint Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="19" XCrop="0" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Baseball Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="19" XCrop="160" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Get Well Soon" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="19" XCrop="224" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Chaos Warp" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="19" XCrop="32" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Scan-n-Play" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="19" XCrop="192" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Mana Drain" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="19" XCrop="64" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Raging River" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="19" XCrop="96" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Membership Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="0" YCrop="0" Width="16" Height="20" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Determination Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="0" YCrop="0" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Bravery Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="16" YCrop="0" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Justice Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="32" YCrop="0" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Kindness Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="48" YCrop="0" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Perseverance Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="32" YCrop="24" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Integrity Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="16" YCrop="24" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Patience Card" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="0" YCrop="24" Width="16" Height="24" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="The Log" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="0" YCrop="0" Width="16" Height="20" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Rage" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="8" YPivot="12" XCrop="16" YCrop="0" Width="16" Height="20" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Nobody" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="0" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Party Time" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="32" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Infuriating Note" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="64" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Beanstalk" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="96" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Jerko" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="0" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Negative Nancy" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="32" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Talhak" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="64" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Yu Sze" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="96" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+				<LayerAnimation LayerId="14" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Little Boy Blue" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="0" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Hat Trick" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="32" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Comedian's Manifesto" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="64" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Lexicon" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="96" YCrop="0" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Gnasher" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="0" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Silvio" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="32" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Eulenspiegel" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="64" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+		<Animation Name="Coconut" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="0" Visible="true"/>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="2" Visible="true"/>
+				<LayerAnimation LayerId="3" Visible="true"/>
+				<LayerAnimation LayerId="4" Visible="true"/>
+				<LayerAnimation LayerId="5" Visible="true"/>
+				<LayerAnimation LayerId="6" Visible="true"/>
+				<LayerAnimation LayerId="7" Visible="true"/>
+				<LayerAnimation LayerId="8" Visible="true"/>
+				<LayerAnimation LayerId="9" Visible="true"/>
+				<LayerAnimation LayerId="10" Visible="true"/>
+				<LayerAnimation LayerId="11" Visible="true"/>
+				<LayerAnimation LayerId="12" Visible="true"/>
+				<LayerAnimation LayerId="13" Visible="true"/>
+				<LayerAnimation LayerId="14" Visible="true">
+					<Frame XPosition="0" YPosition="0" XPivot="16" YPivot="16" XCrop="96" YCrop="32" Width="32" Height="32" XScale="100" YScale="100" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+				</LayerAnimation>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers/>
+		</Animation>
+	</Animations>
+</AnimatedActor>
