@@ -4,7 +4,7 @@ local ChemCard = Isaac.GetCardIdByName("Electrochemistry")
 local TRAIL_OFFSET = -30
 
 function this:PillValueAdd()
-    if(not DiscoCards.DISCO_RUN_DATA.HAS_USED["ELECTROCHEMISTRY"]) then return end
+    if(not DiscoCards.DISCO_RUN_DATA.HAS_USED["ELECTROCHEMISTRY"]) then return end  -- You're a diddy choid
 
     local ChemData =  DiscoCards.DISCO_RUN_DATA.ELECTRO_CHEM_DATA
     DiscoCards:AddCardValue("ELECTROCHEMISTRY",.1)
