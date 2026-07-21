@@ -8,6 +8,10 @@ local roomPriority = {
     RoomType.ROOM_BOSS,
 }
 
+local punchCardBlacklist = {
+    [LevelStage.STAGE8] = true,
+}
+
 local function PunchCardTeleport(player)
     local level = mod.Consts.Game:GetLevel()
     local roomsList = level:GetRooms()
@@ -26,10 +30,13 @@ local function PunchCardTeleport(player)
         mod.Consts.Game:StartRoomTransition(newIndex, Direction.NO_DIRECTION, RoomTransitionAnim.TELEPORT, player)
     else
         Isaac.CreateTimer(function ()
-            mod.Consts.Game:StartStageTransition(false, 0, player)
+            mod.Consts.Game:StartStageTransition(false, level:GetStage() == LevelStage.STAGE6 and 3 or 0, player)
         end, 18, 1, true)
         Isaac.CreateTimer(function ()
-            PunchCardTeleport(player)
+            local stage = level:GetStage()
+            if not punchCardBlacklist[stage] then
+                PunchCardTeleport(player)
+            end
         end, 19, 1, true)
     end
 end
