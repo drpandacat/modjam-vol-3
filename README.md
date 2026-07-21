@@ -14,7 +14,9 @@ Steps to updating the mod
 
     2: .gitignore
 
-    3: .vscode folder and .luarc.json if present
+    3: README.md
+
+    4: .vscode folder and .luarc.json if present
 
 3: Select the copied folder's metadata.xml from the mod uploader, add change notes, and upload mod
 
