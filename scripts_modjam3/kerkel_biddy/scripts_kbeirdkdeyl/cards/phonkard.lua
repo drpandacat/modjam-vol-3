@@ -326,7 +326,7 @@ return function (MOD)
     end)
 
     ---@param id Music
-    MOD:AddPriorityCallback(ModCallbacks.MC_PRE_MUSIC_PLAY, CallbackPriority.EARLY, function (_, id)
+    MOD:AddPriorityCallback(ModCallbacks.MC_PRE_MUSIC_PLAY, -1000, function (_, id) -- soundtrack menu be like: i SUUUUCK
         if t.ItsSoOver
         or id == t.MUSIC
         or MOD.MUSIC:GetCurrentMusicID() ~= t.MUSIC then return end
