@@ -59,7 +59,11 @@ function mod:useCardBaseball(card, player, flags)
     
     data.baseballClub = Isaac.CreateWeapon(WeaponType.WEAPON_BONE, player)
     player:SetWeapon(data.baseballClub, 1)
-
+    --Isaac.DestroyWeapon(data.oldWeapon)
+    if data.oldWeapon:GetMainEntity() then 
+        data.oldWeapon:GetMainEntity().Visible = false
+    end
+    
     sfx:Play(baseballSound, 1, 0, false, 1, 0)
 end
 mod:AddCallback(ModCallbacks.MC_USE_CARD, mod.useCardBaseball, BaseballCard)
@@ -576,7 +580,7 @@ function mod:playerUpdate(player)
     if data.baseballClub and not data.baseballClub_Change then
         local club =  data.baseballClub:GetMainEntity()
 
-        if club then
+        if club and not player:HasCollectible(CollectibleType.COLLECTIBLE_MOMS_KNIFE, false)then
             club:GetSprite():ReplaceSpritesheet(0, "gfx/effects/boneClub_BaseballBat.png")
             club:GetSprite():ReplaceSpritesheet(1, "gfx/effects/boneClub_BaseballBat.png")
             club:GetSprite():LoadGraphics()
@@ -645,6 +649,11 @@ function mod:newRoom()
                 player:EnableWeaponType(data.oldWeapon:GetWeaponType(), true)
                 player:SetWeapon(data.oldWeapon, 1)
                 
+                if data.oldWeapon:GetMainEntity() then 
+                    data.oldWeapon:GetMainEntity().Visible = true
+                end
+    
+
                 data.baseballClub = nil
                 data.baseballClub_Change = nil
                 data.oldWeapon = nil
