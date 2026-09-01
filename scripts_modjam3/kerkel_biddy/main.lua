@@ -180,7 +180,8 @@ function MOD:GetGlobalPlayer()
     for i = 0, 3 do
         players[#players + 1] = PlayerManager.GetEsauJrState(i)
     end
-    for _, player in ipairs(players) do
+    for i = 1, #players do
+        local player = players[i]
         players[#players + 1] = player:GetFlippedForm()
     end
     for _, player in ipairs(players) do
