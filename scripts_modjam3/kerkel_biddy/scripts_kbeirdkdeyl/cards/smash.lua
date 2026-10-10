@@ -329,7 +329,7 @@ return function (MOD)
                     Isaac.Spawn(
                         EntityType.ENTITY_EFFECT,
                         t.EFFECT_SNOW_PARTICLE,
-                        20 * player.SpriteScale.Y,
+                        20 * player.SpriteScale.Y // 1,
                         player.Position,
                         Vector.Zero,
                         nil
@@ -339,7 +339,7 @@ return function (MOD)
                 Isaac.Spawn(
                     EntityType.ENTITY_EFFECT,
                     t.EFFECT_SNOW_PARTICLE,
-                    20 * player.SpriteScale.Y,
+                    20 * player.SpriteScale.Y // 1,
                     player.Position + Vector.FromAngle(math.random() * 360):Resized(math.random() * 20),
                     Vector.Zero,
                     nil
